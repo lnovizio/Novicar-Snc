@@ -1428,9 +1428,12 @@
 }
 
 .yellow-text {
-  color: #ffc400 !important;
+  color: #ffeb3b !important;
 }
 
+.yellow2-text {
+    color: #ffc400 !important;
+}
 .yellow.lighten-5 {
   background-color: #fffde7 !important;
 }
