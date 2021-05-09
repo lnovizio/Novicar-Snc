@@ -1428,7 +1428,7 @@
 }
 
 .yellow-text {
-  color: #ffeb3b !important;
+  color: #ffc400 !important;
 }
 
 .yellow.lighten-5 {
@@ -9084,4 +9084,3 @@ input[type=range]::-ms-thumb {
   main {
     flex: 1 0 auto;
   }
-      
