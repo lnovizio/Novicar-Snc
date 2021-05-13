@@ -2273,8 +2273,6 @@ strong {
   font-weight: bolder;
 }
 
-
-
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
@@ -9086,3 +9084,4 @@ input[type=range]::-ms-thumb {
   main {
     flex: 1 0 auto;
   }
+      
