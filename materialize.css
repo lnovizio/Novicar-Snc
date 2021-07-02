@@ -3324,6 +3324,10 @@ td, th {
   text-align: center;
 }
 
+.centro {
+  float: center !important;
+}
+
 .left {
   float: left !important;
 }
@@ -9084,4 +9088,3 @@ input[type=range]::-ms-thumb {
   main {
     flex: 1 0 auto;
   }
-      
